@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://betstrike-casino-online.com/
+Sitemap: https://betstrike-casino-online.com/sitemap.xml

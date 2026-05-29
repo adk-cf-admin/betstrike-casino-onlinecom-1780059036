@@ -1,0 +1,208 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#0B0B14",
+            "lang-select-color": "#222829",
+            "bg-light": "#0B0B14",
+            "welcome-bonus-bg": "#0B0B14",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#16161d",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#49228c",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#9BFF00",
+            "yellow": "#49228c",
+            "yellow-button": "#9BFF00",
+            "button-text": "#ffffff",
+            "main-button-text": "#222829",
+            "border-color": "#49228c",
+            "casino-cards": "#0B0B14",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#49228c",
+            "providers-back": "#0B0B14",
+            "faq-label": "#0B0B14",
+            "bg-footer": "#0B0B14",
+            "copyright": "#e7e7d5",
+            "starColor": "#49228c",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8362"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8364",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "BetStrike Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8365",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "BetStrike"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-gb-en-GB",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "GB",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "BetStrike",
+                    "title": "BetStrike Casino: Up to 100% Bonus, Crypto Payments, Slots and Live Casino",
+                    "description": "Explore BetStrike Casino with hundreds of slot games, live dealer tables, provably fair titles, tournaments, promotions, loyalty rewards, secure payments and fast cryptocurrency withdrawals.",
+                    "canonical": "betstrike-casino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8366",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "betstrike-casino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8367"
+                },
+                "hero": {
+                    "title": "BetStrike Casino – Official Games, Bonuses and Casino Platform Overview",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8368",
+                    "imageSizeModifier": 15,
+                    "imageYModifier": -7,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8370",
+                    "mobileImageSizeModifier": 20,
+                    "mobileImageYModifier": -1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "At BetStrike, we focus on providing a smooth gaming experience, diverse entertainment options, and reliable payment processing.",
+                    "items": [
+                        "Fast cryptocurrency deposits and withdrawals",
+                        "Provably fair in-house gaming products",
+                        "Extensive slots and live casino portfolio",
+                        "User-friendly interface across all devices",
+                        "Frequent promotions and special campaigns",
+                        "Multi-tier loyalty rewards program available",
+                        "Advanced account protection and security"
+                    ],
+                    "advantagesAfterText": "Our platform combines modern technology with a broad selection of casino content and player rewards.",
+                    "knowMore": "Know more",
+                    "appTitle": "BetStrike App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8372",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "BetStrike App",
+                    "mobileGooglePlayImageTitle": "BetStrike App",
+                    "mobileIosImageTitle": "BetStrike App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About BetStrike",
+                        "description1": "BetStrike stands out through its mix of proprietary games and leading software providers. The platform also offers cryptocurrency support and an extensive rewards ecosystem.",
+                        "items": [
+                            "Welcome bonus up to 100%",
+                            "Wins up to x10000",
+                            "Cashback up to 15%"
+                        ],
+                        "description2": "BetStrike is a modern gaming platform designed to combine casino entertainment with innovative gaming technology. We provide a broad selection of slot titles covering a wide range of themes and mechanics. Players can enjoy table games, card classics, and immersive live dealer experiences. A notable part of the platform is the collection of provably fair proprietary games. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8373",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Different game styles are available for both casual and experienced users. Multiple payment options support convenient account management. Registration is streamlined for quick access to the platform. New members can benefit from welcome promotions. Seasonal campaigns and special events are launched throughout the year. Competitive tournaments provide additional entertainment opportunities. Active players may unlock extra rewards through ongoing promotions. Our loyalty program offers progressive benefits and exclusive privileges. Personalized offers may become available based on account activity. The platform is optimized for desktop and mobile play. Navigation remains simple and intuitive across all sections. Security measures are implemented to protect user data and transactions. Responsible gaming tools are integrated into account settings. Customer support is available through several communication channels. We continue to expand our game catalog and improve the overall user experience."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "BetStrike : your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetStrike Casino Rules and Responsible Gaming\n<\/h3>\n\n<p>\nAccess to the platform requires account registration and compliance with applicable requirements. Players must provide accurate information during registration and verification processes. Identity verification may be requested for security and withdrawal purposes. Only personal payment methods should be used. Financial transactions are monitored through security procedures. Multiple accounts created by the same individual are prohibited. Bonus promotions must be used according to their specific terms. Automated software and unfair practices are not permitted. Responsible gaming tools are available to support balanced play. Deposit limits and session controls can be activated through account settings. Self-exclusion options are available when needed. All disputes are reviewed according to internal procedures. Winnings may be subject to standard verification before approval. Additional security checks can be conducted when necessary. Continued use of the platform indicates acceptance of current rules and policies.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntry Requirements\n<\/h4>\n<ul>\n<li>• Legal age, account registration, identity verification when required<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRestrictions\n<\/h4>\n<ul>\n<li>• No multi-accounting, fraud, bots or unauthorized software<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible Gaming\n<\/h4>\n<ul>\n<li>• Deposit limits, session controls and self-exclusion tools<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetStrike Casino Security, Privacy and Licensing\n<\/h3>\n\n<p>\nBetStrike places significant emphasis on player protection and operational security.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLicensing Standards\n<\/h4>\n<ul>\n<li>• Gaming operations follow recognized industry compliance procedures.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nData Encryption\n<\/h4>\n<ul>\n<li>• SSL encryption helps secure information transmitted between users and platform systems.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPrivacy Policy\n<\/h4>\n<ul>\n<li>• Personal information is processed according to privacy and security policies.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTransaction Protection\n<\/h4>\n<ul>\n<li>• Security monitoring helps reduce fraud and unauthorized activity.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccount Safety\n<\/h4>\n<ul>\n<li>• Technical systems are regularly updated to maintain protection standards.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetStrike Casino Deposits and Withdrawals\n<\/h3>\n\n<p>\nAt BetStrike Casino, we support convenient payment options for both deposits and withdrawals, with a strong focus on speed, security and transparent account management. Players can fund their balance using cryptocurrency payments and selected digital payment methods, depending on availability in the account cashier. Deposits are usually processed instantly, allowing the balance to be updated without long waiting times. Cryptocurrency deposits may require network confirmation before the funds become available. Withdrawals are reviewed through internal security procedures before approval. This process helps protect player balances and reduce unauthorized activity. Account verification may be requested before the first payout or when additional security checks are required. Once a withdrawal is approved, crypto payouts are typically completed faster than traditional banking methods. Card and banking-related withdrawals may take longer because of provider processing times. Players can review transaction history directly from the account dashboard. Larger withdrawal requests may be subject to additional verification. BetStrike Casino aims to keep payment processing clear, secure and consistent across supported methods. Actual processing times may vary depending on the payment provider, blockchain network load and account status.\n<\/p>\n<br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #49228C;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bit&shy;coin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant after network con&shy;fir&shy;ma&shy;tion<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 1 hour<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Eth&shy;ereum<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant after network con&shy;fir&shy;ma&shy;tion<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 2 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>USDT<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant after network con&shy;fir&shy;ma&shy;tion<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 1 hour<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank Card<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant or provider-de&shy;pen&shy;dent<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–5 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>E-Wallet<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant or near-instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 24 hours<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Limits\n<\/h4>\n\n<ul>\n  <li>• Minimum withdrawal: €20<\/li>\n  <li>• Maximum daily withdrawal: €10,000<\/li>\n  <li>• Maximum monthly withdrawal: €100,000<\/li>\n<\/ul>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetStrike Customer Support\n<\/h3>\n<p>\nBetStrike provides assistance through multiple communication channels. Live chat is suitable for urgent requests and account-related questions. Email support allows detailed issue resolution and document submission. Telephone assistance may be available for specific situations. Most live chat requests receive quick responses. Complex cases can require additional review. Support agents assist with payments, bonuses, verification and technical matters. Responsible gaming inquiries are also handled by the support team. Help resources are available across several languages.\n<\/p>\n<br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at BetStrike",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetStrike Casino Loyalty Program\n<\/h3>\n<p>\nAt BetStrike Casino, our loyalty program is built around consistent activity, player status and personalized rewards. Participation begins after account registration and regular use of the available gaming features. We take into account gameplay activity, promotional participation and account history. As players move through the levels, more privileges become available. The program may include cashback, free spins, deposit bonuses, faster processing and tailored offers. New members usually start from the entry level and gradually collect activity points. Higher levels such as Silver, Gold, Platinum and VIP provide broader access to exclusive benefits. Cashback can reach up to 15% depending on status and campaign terms. Deposit bonuses may reach up to 100%, while selected promotions can include up to 200 free spins. VIP members may receive priority support and individual attention. Our goal is to keep the loyalty structure clear, accessible and easy to follow from the account dashboard.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration Conditions\n<\/h4>\n<ul>\n<li>• Active BetStrike Casino account required.<\/li>\n<li>• Account verification may be needed for selected rewards.<\/li>\n<li>• Platform rules must be followed at all times.<\/li>\n<li>• Personal payment methods should be used for transactions.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLoyalty Levels\n<\/h4>\n<ul>\n<li>• Bronze — starting level after registration.<\/li>\n<li>• Silver — from 1,000 activity points.<\/li>\n<li>• Gold — from 5,000 activity points.<\/li>\n<li>• Platinum — from 20,000 activity points.<\/li>\n<li>• VIP — personal status for highly active players.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAvailable Rewards\n<\/h4>\n<ul>\n<li>• Cashback up to 15% — partial return based on activity.<\/li>\n<li>• Bonus up to 100% — extra balance under promotion terms.<\/li>\n<li>• Up to 200 free spins — available in selected slot campaigns.<\/li>\n<li>• Priority support — faster assistance for higher levels.<\/li>\n<li>• Personal offers — individual rewards based on activity.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetStrike Casino Bonuses, Promotions and Special Offers\n<\/h3>\n<p>\nAt BetStrike Casino, promotions are designed to add variety to the gaming experience. We use welcome bonuses, deposit campaigns, free spins, tournaments and limited-time events. New players may receive a bonus of up to 100% on their first deposit. Selected campaigns may include up to 200 free spins on featured slot titles. Slot promotions can include boosted multipliers, missions and prize pools. Tournament events may offer prize pools of up to €50,000. Live casino offers may apply to roulette, blackjack and baccarat. Seasonal events are introduced around special periods and major gaming campaigns. Reload bonuses, cashback and mission-based rewards may be available for active users. BetStrike in-house games such as Dice, Mines, Plinko and Keno may also be included in promotions. Each offer has its own terms, including wagering requirements, time limits and eligible games. Active promotions can be checked directly from the account area.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Bonuses\n<\/h4>\n<ul>\n<li>• Welcome bonus up to 100% — starting offer for new players.<\/li>\n<li>• Up to 200 free spins — available in selected slot campaigns.<\/li>\n<li>• Reload bonus up to 50% — extra balance during limited promotions.<\/li>\n<li>• Cashback up to 15% — partial return based on activity.<\/li>\n<li>• Mission rewards — bonuses for completing gaming tasks.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGame Promotions\n<\/h4>\n<ul>\n<li>• Slot campaigns — free spins, multipliers and tournament points.<\/li>\n<li>• Live casino offers — roulette, blackjack and baccarat promotions.<\/li>\n<li>• Mines and Dice rewards — fast missions with extra prizes.<\/li>\n<li>• Plinko and Keno events — special offers for BetStrike originals.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTournaments and Seasonal Events\n<\/h4>\n<ul>\n<li>• Prize pools up to €50,000 — shared among leaderboard winners.<\/li>\n<li>• Weekly tournaments — regular competitive slot events.<\/li>\n<li>• Seasonal campaigns — themed promotions during special periods.<\/li>\n<li>• Leaderboards — ranking tables with updated positions.<\/li>\n<\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetStrike Casino Games and Betting Options\n<\/h3>\n<p>\nBetStrike Casino combines classic casino content, live dealer games and fast in-house products. The game library includes video slots with bonus rounds, multipliers, free spins and different volatility levels. Classic slots are available for players who prefer simple mechanics. Live casino features roulette, blackjack, baccarat and game show formats with real dealers. Table games are available in both digital and live versions. BetStrike originals are designed for quick sessions and provably fair gameplay. Dice allows players to adjust risk and potential multipliers. Mines focuses on safe selections and strategic risk control. Plinko offers dynamic ball drops with different payout zones. Keno provides simple number-based gameplay and instant results. Tower adds a step-by-step structure with increasing potential rewards. Selected games may include multipliers up to x10000. Slot bets may start from €0.10, while live casino tables often begin from €1. Maximum limits depend on the selected title, provider and account settings.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSlots\n<\/h4>\n<ul>\n<li>• Video slots — modern titles with bonus features.<\/li>\n<li>• Classic slots — simple mechanics and familiar symbols.<\/li>\n<li>• Jackpot slots — games with larger prize pools.<\/li>\n<li>• Mega&shy;ways slots — dynamic reels and changing paylines.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLive Casino\n<\/h4>\n<ul>\n<li>• Live Roulette — real-time roulette with professional dealers.<\/li>\n<li>• Live Black&shy;jack — card tables with different limits.<\/li>\n<li>• Live Baccarat — classic fast-paced table gameplay.<\/li>\n<li>• Game Shows — entertainment formats with multipliers.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBetStrike Originals\n<\/h4>\n<ul>\n<li>• Dice — fast rounds with adjustable risk.<\/li>\n<li>• Mines — safe picks and increasing potential payouts.<\/li>\n<li>• Plinko — ball-drop gameplay with payout zones.<\/li>\n<li>• Keno — number selection and instant results.<\/li>\n<li>• Tower — level-based gameplay with rising multipliers.<\/li>\n<\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetStrike Casino Betting Limits\n<\/h3>\n\n<p>\nBetStrike Casino offers flexible betting ranges across a wide selection of games. Low minimum stakes allow players to explore different categories comfortably, while higher limits provide access to larger betting opportunities. Available betting ranges may vary depending on the selected game, software provider and account status. Slots, live casino games and proprietary titles all feature different wagering limits to accommodate various playing styles.\n<\/p>\n<br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #49228C;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jack&shy;pot Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Black&shy;jack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€5,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Casino<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">€20,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetStrike Casino Tournaments and Leaderboards\n<\/h3>\n\n<p>\nBetStrike Casino regularly hosts tournaments that allow players to compete for additional prizes and promotional rewards. Participation usually requires joining an active event and completing the qualifying gameplay requirements. Tournament points may be awarded for wagers, total betting volume, spins completed or specific promotional objectives. Different events may use different scoring systems depending on the selected games. Leaderboards are updated automatically throughout the competition period, allowing participants to monitor their ranking in real time. At the end of each tournament, results are verified and prizes are distributed according to the final standings. Rewards may include cash prizes, bonus funds, free spins and exclusive promotional packages.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow Points Are Earned\n<\/h4>\n\n<ul>\n<li>• Tournament wagers, spins, betting volume and special promotional activities may contribute to the leaderboard score.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTracking Your Position\n<\/h4>\n\n<ul>\n<li>• Rankings are displayed in a live leaderboard with automatic updates throughout the event.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPrize Distribution\n<\/h4>\n\n<ul>\n<li>• Rewards are credited after tournament completion and result verification.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTypical Tournament Rewards\n<\/h4>\n\n<ul>\n<li>• Prize pools from €1,000 to €50,000, up to 500 free spins and bonus reward packages.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can multiple cryptocurrencies be used on one account?",
+                            "answer": "\nYes, supported payment methods may allow several cryptocurrencies."
+                        },
+                        {
+                            "title": "Is verification required immediately after registration?",
+                            "answer": "Verification is typically requested before withdrawals or additional security checks."
+                        },
+                        {
+                            "title": "Is game progress synchronized between devices?",
+                            "answer": "Yes, account data is available across supported devices."
+                        },
+                        {
+                            "title": "Are there limits on withdrawal requests?",
+                            "answer": "Financial limits may apply depending on account settings."
+                        },
+                        {
+                            "title": "Are personalized promotions available?",
+                            "answer": "Selected users may receive individual offers and rewards."
+                        },
+                        {
+                            "title": "What happens to inactive accounts?",
+                            "answer": "Accounts remain accessible, although certain promotions may expire."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
